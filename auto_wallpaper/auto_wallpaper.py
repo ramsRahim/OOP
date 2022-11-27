@@ -28,4 +28,4 @@ with open('./apod.png','wb') as image:
     image.write(res.content)
 
 # set as wallpaper
-PyWallpaper.change_wallpaper('/Users/rahimhossain/Documents/codes/OOP/auto_wallpaper/apod.png')
+PyWallpaper.change_wallpaper('/Users/rahimhossain/Documents/codes/OOP/apod.png')
