@@ -17,6 +17,7 @@ dict_content = json.loads(content)
 
 #get image URL
 
+#print(dict_content.keys())
 image_url = dict_content['hdurl']
 
 #download image
